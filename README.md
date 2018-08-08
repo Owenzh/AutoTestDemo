@@ -1,3 +1,3 @@
 # Auto test demo
 
-## Author by Xudong Zhang
+## Author by Owen Zhang
